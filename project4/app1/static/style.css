@@ -1,0 +1,21 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+nav{
+    height: 15vh;
+    width: 100%;
+    background-color:antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.about{
+    color:hotpink;
+}
+
